@@ -1,0 +1,15 @@
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/bin/Debug/net7.0/blackjackTest
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/bin/Debug/net7.0/blackjackTest.deps.json
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/bin/Debug/net7.0/blackjackTest.runtimeconfig.json
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/bin/Debug/net7.0/blackjackTest.dll
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/bin/Debug/net7.0/blackjackTest.pdb
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.csproj.AssemblyReference.cache
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.AssemblyInfoInputs.cache
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.AssemblyInfo.cs
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.csproj.CoreCompileInputs.cache
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.dll
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/refint/blackjackTest.dll
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.pdb
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/blackjackTest.genruntimeconfig.cache
+/Users/martinnessa/RiderProjects/blackjackTest/blackjackTest/obj/Debug/net7.0/ref/blackjackTest.dll
